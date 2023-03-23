@@ -174,7 +174,7 @@ Look at that beautiful traffic. Now its time to ...
 >    $count++
 > }''' 
 
-[Code Source](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1)
+[Code Source](https://github.com/jdmornan/AD-Name-Generator.git)
 
 4. Run the script and observe the accounts being created
 
